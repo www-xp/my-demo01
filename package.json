@@ -1,0 +1,15 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "A simple Node.js Hello World website deployed to Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["node", "express", "vercel", "hello-world"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
